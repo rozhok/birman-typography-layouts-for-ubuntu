@@ -3,7 +3,7 @@ xkb_symbols "typo-birman-en" {
     name[Group1]= "English (Typographic by Ilya Birman)";
 
     // 1st keyboard row
-    key <TLDE> { [             grave,	       asciitilde,              NoSymbol,             dead_grave ] }; // "~"
+    key <TLDE> { [             grave,        asciitilde,              NoSymbol,             dead_grave ] }; // "~"
     key <AE01> { [                 1,            exclam,           onesuperior,             exclamdown ] }; // "1""
     key <AE02> { [                 2,                at,           twosuperior,                onehalf ] }; // "2"
     key <AE03> { [                 3,        numbersign,         threesuperior,               onethird ] }; // "3"

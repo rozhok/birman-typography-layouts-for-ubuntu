@@ -1,6 +1,17 @@
 <!--typo-birman-start-->
     <layout>
       <configItem>
+        <name>typo-birman-ua</name>
+        <shortDescription>Ukrainian (Typographic by Ilya Birman)</shortDescription>
+        <description>Ukrainian (Typographic by Ilya Birman)</description>
+        <languageList>
+          <iso639Id>ukr</iso639Id>
+        </languageList>
+      </configItem>
+      <variantList/>
+    </layout>
+    <layout>
+      <configItem>
         <name>typo-birman-ru</name>
         <shortDescription>Russian (Typographic by Ilya Birman)</shortDescription>
         <description>Russian (Typographic by Ilya Birman)</description>
