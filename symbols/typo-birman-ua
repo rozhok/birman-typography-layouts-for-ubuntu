@@ -24,7 +24,7 @@ xkb_symbols "typo-birman-ua" {
     key <AD04> { [       Cyrillic_ka,       Cyrillic_KA,            registered,         dead_abovering  ] }; // "r"
     key <AD05> { [       Cyrillic_ie,       Cyrillic_IE,           Cyrillic_io,            Cyrillic_IO  ] }; // "t"
     key <AD06> { [       Cyrillic_en,       Cyrillic_EN,                 U0463,                  U0462  ] }; // "y" // U+0463 CYRILLIC SMALL LETTER YAT // U+0462 CYRILLIC CAPITAL LETTER YAT
-    key <AD07> { [      Cyrillic_ghe,      Cyrillic_GHE,                 U0475,                  U0474  ] }; // "u" // U+0475 CYRILLIC SMALL LETTER IZHITSA // U+0474 CYRILLIC CAPITAL LETTER IZHITSA
+    key <AD07> { [      Cyrillic_ghe,      Cyrillic_GHE,   Ukrainian_ghe_with_upturn, Ukrainian_GHE_WITH_UPTURN  ] }; // "u" // U+0475 CYRILLIC SMALL LETTER IZHITSA // U+0474 CYRILLIC CAPITAL LETTER IZHITSA
     key <AD08> { [      Cyrillic_sha,      Cyrillic_SHA,     Cyrillic_hardsign,      Cyrillic_HARDSIGN  ] }; // "i"
     key <AD09> { [    Cyrillic_shcha,    Cyrillic_SHCHA,                 U0473,                  U0472  ] }; // "o" // U+0473 CYRILLIC SMALL LETTER FITA // U+0472 CYRILLIC CAPITAL LETTER FITA
     key <AD10> { [       Cyrillic_ze,       Cyrillic_ZE,                 acute,            doubleacute  ] }; // "p"
